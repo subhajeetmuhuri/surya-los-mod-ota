@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1626370248,
+      "filename": "lineage-18.1-20210715-MOD-surya.zip",
+      "id": "20292ce76e235f94fa7be71d3fff24fc22a017cc91fbb29684dfd57c5fb4cc58",
+      "romtype": "MOD",
+      "size": 1592800897,
+      "url": "https://github.com/subhajeetmuhuri/surya-los-mod-ota/releases/download/20210715/lineage-18.1-20210715-MOD-surya.zip",
+      "version": "18.1"
+    }
+  ]
+}

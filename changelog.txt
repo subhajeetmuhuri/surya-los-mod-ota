@@ -1,0 +1,5 @@
+- July security patch
+- Device tree rebased over ArianK16a/android_device_xiaomi_davinci
+- FW is inbuilt with the ROM, no need to flash separate specific FW zips
+- DSU Loader option in Developer options can now download available DSU images
+- OTA updates enabled, future builds should be OTA updatable
