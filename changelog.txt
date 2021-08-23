@@ -1,4 +1,33 @@
-Probable fixes are applied for:
-- Amazon Prime
-- fpc1020
-- IR
+- August security patch
+- Builds from now will be user instead of userdebug
+- Allow QS Panel to be disabled on secure lockscreens
+- Increased screenshot dismiss delay to 3 seconds
+- Added toggle to enable notification headers
+- Allow disabling developer/USB notifications
+- Enabled Global ThinLTO on platform side
+- Show carrier name in Cellular QS Tile
+- Added Samsung lockscreen clock
+- Added CPUInfo QS Tile
+- Make GBoard follow system accent on light theme
+- Navbar below GBoard now follows GBoard theme
+- Wallpapers and Sounds now support more pixel stuff
+- No more Trust notification on first boot
+- Smooth Display instead of Minimum/Peak refresh rate
+- Removed Smart Charging
+- Removed Lockscreen Charging Info
+- Removed Press to Unlock FP option
+- Media art blur level will now show correct level on first boot
+- Display filesystem type for mounted volumes in Storage settings
+- Removed duplicate build number from firmware dialogue
+- Switch to Lineage offline charging animation
+- Make pixel as the default accent
+- Add some padding on both the sides of GBoard
+- Enabled Global ThinLTO on platform side
+- Added few other performance and hardening patches from ProtonAOSP
+- Kernel compiled with AOSP Clang 13.0.1 with ThinLTO enabled
+- Kernel rebased to latest SMxxx0 CAF tag
+- Blobs are now updated to V12.5.1.0.RJGMIXM
+- AUX cams should be accessible now in camera apps
+- FP enrolling crashing in SetupWizard should be fixed
+- Added Clear Speaker option
+- Added support for toggling between different HBM and CABC modes
