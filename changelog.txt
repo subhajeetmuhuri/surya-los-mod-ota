@@ -1,1 +1,1 @@
-- Fix bootloop issue (builds shouldn't need magisk to boot up now)
+- Misc. changes and various under-the-hood improvements
