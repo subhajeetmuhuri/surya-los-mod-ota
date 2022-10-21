@@ -1,1 +1,3 @@
-- Testing OTA
+- Added three-fingers-swipe to screenshot
+- Fixed autobrightness setting max levels all the time
+- Synced latest changes from upstream lineage ROM source
