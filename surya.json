@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1666359419,
-      "filename": "lineage-20.0-20221021-UNOFFICIAL-surya.zip",
-      "id": "c876c7688b4f30161cc42d54a36301aa705a1b83dbc7a52c569d93096472c0be",
+      "datetime": 1666768875,
+      "filename": "lineage-20.0-20221026-UNOFFICIAL-surya.zip",
+      "id": "c012e6645043f32862d7d7d1fd85005ddab6b152048bae627ce6e01344302fc2",
       "romtype": "UNOFFICIAL",
-      "size": 1284926563,
-      "url": "https://github.com/subhajeetmuhuri/surya-los-mod-ota/releases/download/20221021/lineage-20.0-20221021-UNOFFICIAL-surya.zip",
+      "size": 1284925017,
+      "url": "https://github.com/subhajeetmuhuri/surya-los-mod-ota/releases/download/20221026/lineage-20.0-20221026-UNOFFICIAL-surya.zip",
       "version": "20.0"
     }
   ]

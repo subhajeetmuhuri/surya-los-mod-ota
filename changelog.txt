@@ -1,3 +1,4 @@
-- Added three-fingers-swipe to screenshot
-- Fixed autobrightness setting max levels all the time
+- Added Repainter ROM integration support
+- Fixed logspam/battery drain on BT audio playback
+- Tweaked status bar paddings, again
 - Synced latest changes from upstream lineage ROM source
