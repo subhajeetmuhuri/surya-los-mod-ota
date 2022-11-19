@@ -1,4 +1,4 @@
-- Added Repainter ROM integration support
-- Fixed logspam/battery drain on BT audio playback
-- Tweaked status bar paddings, again
-- Synced latest changes from upstream lineage ROM source
+• November security patch
+• Hopefully fixed BT issues
+• Updated blobs from V13.0.2.0.SJGINXM
+• Synced latest changes from upstream lineage ROM source
