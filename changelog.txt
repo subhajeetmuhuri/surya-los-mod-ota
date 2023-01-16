@@ -1,4 +1,5 @@
-• November security patch
-• Hopefully fixed BT issues
-• Updated blobs from V13.0.2.0.SJGINXM
+• January security patch
+• Merged latest android-4.14-stable & CLO tags in kernel
+• Disabled debugfs in kernel
+• Updated blobs and FPs from V13.0.5.0.SJGIDXM
 • Synced latest changes from upstream lineage ROM source
