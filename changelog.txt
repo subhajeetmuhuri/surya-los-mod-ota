@@ -1,5 +1,7 @@
-• January security patch
+• Android 13 QPR2, March security patch
+• Migrated to OSS aptX/HD encoders
 • Merged latest android-4.14-stable & CLO tags in kernel
-• Disabled debugfs in kernel
-• Updated blobs and FPs from V13.0.5.0.SJGIDXM
+• Added KernelSU
+• Updated blobs and FPs from V14.0.1.0.SJGMIXM
+• Added Network traffic monitor
 • Synced latest changes from upstream lineage ROM source
